@@ -1,0 +1,241 @@
+english_faq = """
+# Customer Support FAQ - English
+
+## Account Management
+
+Q: How do I reset my password?
+A: To reset your password, go to the login page and click "Forgot Password". Enter your email address, and we'll send you a reset link within 5 minutes. The link is valid for 24 hours.
+
+Q: How do I update my email address?
+A: You can update your email in Settings > Account > Email. You'll need to verify the new email address by clicking the confirmation link we send.
+
+Q: How do I delete my account?
+A: To delete your account, go to Settings > Account > Delete Account. Please note this action is permanent and cannot be undone. All your data will be removed within 30 days.
+
+## Billing and Payments
+
+Q: What payment methods do you accept?
+A: We accept credit cards (Visa, Mastercard, American Express), debit cards, PayPal, and bank transfers for enterprise customers.
+
+Q: How do I update my billing information?
+A: Go to Settings > Billing > Payment Methods. You can add, remove, or update your payment methods there. Changes take effect immediately.
+
+Q: Can I get a refund?
+A: Yes, we offer a 30-day money-back guarantee. Contact our support team with your order number to process a refund. Refunds typically take 5-7 business days.
+
+## Technical Support
+
+Q: The app is not loading. What should I do?
+A: First, try clearing your browser cache and cookies. If that doesn't work, try using a different browser. Make sure you're using the latest version.
+
+Q: How do I report a bug?
+A: You can report bugs through the app by clicking Help > Report a Bug, or email us at bugs@example.com. Please include screenshots.
+
+Q: Is there a mobile app available?
+A: Yes! We have mobile apps for both iOS and Android. Download them from the App Store or Google Play. All features are available on mobile.
+
+## Features
+
+Q: How many users can I add to my account?
+A: The Basic plan allows 5 users, Professional allows 20 users, and Enterprise allows unlimited users. You can upgrade anytime.
+
+Q: Can I export my data?
+A: Yes, you can export all your data in CSV or JSON format. Go to Settings > Data > Export. The export file will be emailed to you within 1 hour.
+
+Q: Do you offer API access?
+A: Yes, API access is available on Professional and Enterprise plans. You can generate API keys in Settings > Developers.
+"""
+    
+    # ================= SPANISH DATA =================
+    spanish_faq = """
+# Preguntas Frecuentes de Soporte al Cliente - Español
+
+## Gestión de Cuenta
+
+P: ¿Cómo restablezco mi contraseña?
+R: Para restablecer su contraseña, vaya a la página de inicio de sesión y haga clic en "Olvidé mi contraseña". Ingrese su dirección de correo electrónico y le enviaremos un enlace de restablecimiento en 5 minutos. El enlace es válido por 24 horas.
+
+P: ¿Cómo actualizo mi dirección de correo electrónico?
+R: Puede actualizar su correo electrónico en Configuración > Cuenta > Correo electrónico. Necesitará verificar la nueva dirección de correo haciendo clic en el enlace de confirmación que enviamos.
+
+P: ¿Cómo elimino mi cuenta?
+R: Para eliminar su cuenta, vaya a Configuración > Cuenta > Eliminar cuenta. Tenga en cuenta que esta acción es permanente y no se puede deshacer. Todos sus datos se eliminarán en 30 días.
+
+## Facturación y Pagos
+
+P: ¿Qué métodos de pago aceptan?
+R: Aceptamos tarjetas de crédito (Visa, Mastercard, American Express), tarjetas de débito, PayPal y transferencias bancarias para clientes empresariales.
+
+P: ¿Cómo actualizo mi información de facturación?
+R: Vaya a Configuración > Facturación > Métodos de pago. Puede agregar, eliminar o actualizar sus métodos de pago allí. Los cambios surten efecto inmediatamente.
+
+P: ¿Puedo obtener un reembolso?
+R: Sí, ofrecemos una garantía de devolución de dinero de 30 días. Comuníquese con nuestro equipo de soporte con su número de pedido para procesar un reembolso. Los reembolsos generalmente tardan de 5 a 7 días hábiles.
+
+## Soporte Técnico
+
+P: La aplicación no se carga. ¿Qué debo hacer?
+R: Primero, intente borrar el caché y las cookies de su navegador. Si eso no funciona, intente usar un navegador diferente. Asegúrese de estar usando la última versión.
+
+P: ¿Cómo informo un error?
+R: Puede informar errores a través de la aplicación haciendo clic en Ayuda > Informar un error, o envíenos un correo electrónico a bugs@example.com. Por favor incluya capturas de pantalla.
+
+P: ¿Hay una aplicación móvil disponible?
+R: ¡Sí! Tenemos aplicaciones móviles para iOS y Android. Descárguelas de la App Store o Google Play. Todas las funciones están disponibles en dispositivos móviles.
+
+## Características
+
+P: ¿Cuántos usuarios puedo agregar a mi cuenta?
+R: El plan Básico permite 5 usuarios, el Profesional permite 20 usuarios y el Empresarial permite usuarios ilimitados. Puede actualizar en cualquier momento.
+
+P: ¿Puedo exportar mis datos?
+R: Sí, puede exportar todos sus datos en formato CSV o JSON. Vaya a Configuración > Datos > Exportar. El archivo de exportación se le enviará por correo electrónico en 1 hora.
+
+P: ¿Ofrecen acceso a la API?
+R: Sí, el acceso a la API está disponible en los planes Profesional y Empresarial. Puede generar claves API en Configuración > Desarrolladores.
+"""
+    
+    # ================= FRENCH DATA =================
+    french_faq = """
+# FAQ du Support Client - Français
+
+## Gestion du Compte
+
+Q: Comment réinitialiser mon mot de passe?
+R: Pour réinitialiser votre mot de passe, allez sur la page de connexion et cliquez sur "Mot de passe oublié". Entrez votre adresse e-mail et nous vous enverrons un lien de réinitialisation dans les 5 minutes. Le lien est valable pendant 24 heures.
+
+Q: Comment mettre à jour mon adresse e-mail?
+R: Vous pouvez mettre à jour votre e-mail dans Paramètres > Compte > E-mail. Vous devrez vérifier la nouvelle adresse e-mail en cliquant sur le lien de confirmation que nous envoyons.
+
+Q: Comment supprimer mon compte?
+R: Pour supprimer votre compte, allez dans Paramètres > Compte > Supprimer le compte. Veuillez noter que cette action est permanente et ne peut pas être annulée. Toutes vos données seront supprimées dans les 30 jours.
+
+## Facturation et Paiements
+
+Q: Quels moyens de paiement acceptez-vous?
+R: Nous acceptons les cartes de crédit (Visa, Mastercard, American Express), les cartes de débit, PayPal et les virements bancaires pour les clients entreprise.
+
+Q: Comment mettre à jour mes informations de facturation?
+R: Allez dans Paramètres > Facturation > Moyens de paiement. Vous pouvez ajouter, supprimer ou mettre à jour vos moyens de paiement. Les modifications prennent effet immédiatement.
+
+Q: Puis-je obtenir un remboursement?
+R: Oui, nous offrons une garantie de remboursement de 30 jours. Contactez notre équipe d'assistance avec votre numéro de commande pour traiter un remboursement. Les remboursements prennent généralement 5 à 7 jours ouvrables.
+
+## Support Technique
+
+Q: L'application ne se charge pas. Que dois-je faire?
+R: Tout d'abord, essayez de vider le cache et les cookies de votre navigateur. Si cela ne fonctionne pas, essayez d'utiliser un navigateur différent. Assurez-vous d'utiliser la dernière version.
+
+Q: Comment signaler un bug?
+R: Vous pouvez signaler des bugs via l'application en cliquant sur Aide > Signaler un bug, ou nous envoyer un e-mail à bugs@example.com. Veuillez inclure des captures d'écran.
+
+Q: Y a-t-il une application mobile disponible?
+R: Oui! Nous avons des applications mobiles pour iOS et Android. Téléchargez-les depuis l'App Store ou Google Play. Toutes les fonctionnalités sont disponibles sur mobile.
+
+## Fonctionnalités
+
+Q: Combien d'utilisateurs puis-je ajouter à mon compte?
+R: Le plan Basique permet 5 utilisateurs, le plan Professionnel permet 20 utilisateurs et le plan Entreprise permet un nombre illimité d'utilisateurs. Vous pouvez mettre à niveau à tout moment.
+
+Q: Puis-je exporter mes données?
+R: Oui, vous pouvez exporter toutes vos données au format CSV ou JSON. Allez dans Paramètres > Données > Exporter. Le fichier d'exportation vous sera envoyé par e-mail dans l'heure.
+
+Q: Offrez-vous un accès API?
+R: Oui, l'accès API est disponible sur les plans Professionnel et Entreprise. Vous pouvez générer des clés API dans Paramètres > Développeurs.
+"""
+    
+    # ================= GERMAN DATA =================
+    german_faq = """
+# Kundensupport FAQ - Deutsch
+
+## Kontoverwaltung
+
+F: Wie setze ich mein Passwort zurück?
+A: Um Ihr Passwort zurückzusetzen, gehen Sie zur Anmeldeseite und klicken Sie auf "Passwort vergessen". Geben Sie Ihre E-Mail-Adresse ein und wir senden Ihnen innerhalb von 5 Minuten einen Reset-Link. Der Link ist 24 Stunden gültig.
+
+F: Wie aktualisiere ich meine E-Mail-Adresse?
+A: Sie können Ihre E-Mail in Einstellungen > Konto > E-Mail aktualisieren. Sie müssen die neue E-Mail-Adresse verifizieren, indem Sie auf den Bestätigungslink klicken, den wir senden.
+
+F: Wie lösche ich mein Konto?
+A: Um Ihr Konto zu löschen, gehen Sie zu Einstellungen > Konto > Konto löschen. Bitte beachten Sie, dass diese Aktion dauerhaft ist und nicht rückgängig gemacht werden kann. Alle Ihre Daten werden innerhalb von 30 Tagen entfernt.
+
+## Abrechnung und Zahlungen
+
+F: Welche Zahlungsmethoden akzeptieren Sie?
+A: Wir akzeptieren Kreditkarten (Visa, Mastercard, American Express), Debitkarten, PayPal und Banküberweisungen für Unternehmenskunden.
+
+F: Wie aktualisiere ich meine Rechnungsinformationen?
+A: Gehen Sie zu Einstellungen > Abrechnung > Zahlungsmethoden. Dort können Sie Ihre Zahlungsmethoden hinzufügen, entfernen oder aktualisieren. Änderungen werden sofort wirksam.
+
+F: Kann ich eine Rückerstattung erhalten?
+A: Ja, wir bieten eine 30-tägige Geld-zurück-Garantie. Kontaktieren Sie unser Support-Team mit Ihrer Bestellnummer, um eine Rückerstattung zu bearbeiten. Rückerstattungen dauern in der Regel 5-7 Werktage.
+
+## Technischer Support
+
+F: Die App wird nicht geladen. Was soll ich tun?
+A: Versuchen Sie zunächst, den Cache und die Cookies Ihres Browsers zu löschen. Wenn das nicht funktioniert, versuchen Sie es mit einem anderen Browser. Stellen Sie sicher, dass Sie die neueste Version verwenden.
+
+F: Wie melde ich einen Fehler?
+A: Sie können Fehler über die App melden, indem Sie auf Hilfe > Fehler melden klicken, oder senden Sie uns eine E-Mail an bugs@example.com. Bitte fügen Sie Screenshots bei.
+
+F: Gibt es eine mobile App?
+A: Ja! Wir haben mobile Apps für iOS und Android. Laden Sie sie aus dem App Store oder Google Play herunter. Alle Funktionen sind auf dem Handy verfügbar.
+
+## Funktionen
+
+F: Wie viele Benutzer kann ich zu meinem Konto hinzufügen?
+A: Der Basic-Plan erlaubt 5 Benutzer, Professional erlaubt 20 Benutzer und Enterprise erlaubt unbegrenzte Benutzer. Sie können jederzeit upgraden.
+
+F: Kann ich meine Daten exportieren?
+A: Ja, Sie können alle Ihre Daten im CSV- oder JSON-Format exportieren. Gehen Sie zu Einstellungen > Daten > Exportieren. Die Export-Datei wird Ihnen innerhalb einer Stunde per E-Mail zugesandt.
+
+F: Bieten Sie API-Zugang an?
+A: Ja, API-Zugang ist bei Professional- und Enterprise-Plänen verfügbar. Sie können API-Schlüssel in Einstellungen > Entwickler generieren.
+"""
+    
+    # ================= HINDI DATA =================
+    hindi_faq = """
+# ग्राहक सहायता FAQ - हिंदी
+
+## खाता प्रबंधन
+
+प्र: मैं अपना पासवर्ड कैसे रीसेट करूं?
+उ: अपना पासवर्ड रीसेट करने के लिए, लॉगिन पेज पर जाएं और "पासवर्ड भूल गए" पर क्लिक करें। अपना ईमेल पता दर्ज करें, और हम 5 मिनट के भीतर आपको एक रीसेट लिंक भेजेंगे। लिंक 24 घंटे के लिए मान्य है।
+
+प्र: मैं अपना ईमेल पता कैसे अपडेट करूं?
+उ: आप सेटिंग्स > खाता > ईमेल में अपना ईमेल अपडेट कर सकते हैं। हमारे द्वारा भेजे गए पुष्टिकरण लिंक पर क्लिक करके आपको नए ईमेल पते को सत्यापित करना होगा।
+
+प्र: मैं अपना खाता कैसे हटाऊं?
+उ: अपना खाता हटाने के लिए, सेटिंग्स > खाता > खाता हटाएं पर जाएं। कृपया ध्यान दें कि यह कार्रवाई स्थायी है और इसे पूर्ववत नहीं किया जा सकता। आपका सभी डेटा 30 दिनों के भीतर हटा दिया जाएगा।
+
+## बिलिंग और भुगतान
+
+प्र: आप कौन से भुगतान के तरीके स्वीकार करते हैं?
+उ: हम क्रेडिट कार्ड (वीज़ा, मास्टरकार्ड, अमेरिकन एक्सप्रेस), डेबिट कार्ड, पेपैल, और एंटरप्राइज़ ग्राहकों के लिए बैंक ट्रांसफर स्वीकार करते हैं।
+
+प्र: मैं अपनी बिलिंग जानकारी कैसे अपडेट करूं?
+उ: सेटिंग्स > बिलिंग > भुगतान विधियों पर जाएं। आप वहां अपनी भुगतान विधियों को जोड़, हटा या अपडेट कर सकते हैं। परिवर्तन तुरंत प्रभावी होते हैं।
+
+प्र: क्या मुझे रिफंड मिल सकता है?
+उ: हां, हम 30-दिन की मनी-बैक गारंटी प्रदान करते हैं। रिफंड प्रोसेस करने के लिए अपने ऑर्डर नंबर के साथ हमारी सहायता टीम से संपर्क करें। रिफंड में आमतौर पर 5-7 व्यावसायिक दिन लगते हैं।
+
+## तकनीकी सहायता
+
+प्र: ऐप लोड नहीं हो रहा है। मुझे क्या करना चाहिए?
+उ: सबसे पहले, अपने ब्राउज़र कैश और कुकीज़ को साफ़ करने का प्रयास करें। यदि वह काम नहीं करता है, तो एक अलग ब्राउज़र का उपयोग करने का प्रयास करें। सुनिश्चित करें कि आप नवीनतम संस्करण का उपयोग कर रहे हैं।
+
+प्र: मैं बग की रिपोर्ट कैसे करूं?
+उ: आप ऐप के माध्यम से हेल्प > बग रिपोर्ट करें पर क्लिक करके बग की रिपोर्ट कर सकते हैं, या हमें bugs@example.com पर ईमेल कर सकते हैं। कृपया स्क्रीनशॉट शामिल करें।
+
+प्र: क्या कोई मोबाइल ऐप उपलब्ध है?
+उ: हां! हमारे पास iOS और Android दोनों के लिए मोबाइल ऐप हैं। उन्हें ऐप स्टोर या गूगल प्ले से डाउनलोड करें। सभी सुविधाएं मोबाइल पर उपलब्ध हैं।
+
+## विशेषताएं
+
+प्र: मैं अपने खाते में कितने उपयोगकर्ता जोड़ सकता हूं?
+उ: बेसिक प्लान 5 उपयोगकर्ताओं की अनुमति देता है, प्रोफेशनल 20 उपयोगकर्ताओं की अनुमति देता है, और एंटरप्राइज़ असीमित उपयोगकर्ताओं की अनुमति देता है। आप किसी भी समय अपग्रेड कर सकते हैं।
+
+प्र: क्या मैं अपना डेटा निर्यात कर सकता हूं?
+उ: हां, आप अपने सभी डेटा को CSV या JSON प्रारूप में निर्यात कर सकते हैं। सेटिंग्स > डेटा > निर्यात करें पर जाएं। निर्यात फ़ाइल 1 घंटे के भीतर आपको ईमेल कर दी जाएगी।
+प्र: क्या आप API एक्सेस प्रदान करते हैं?
+उ: हां, API एक्सेस प्रोफेशनल और एंटरप्राइज़ प्लान पर उपलब्ध है। आप सेटिंग्स > डेवलपर्स में API कुंजी उत्पन्न कर सकते हैं।
